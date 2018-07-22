@@ -1,4 +1,4 @@
-package com.hua.downupload;
+package com.hua.download;
 
 /**
  * Created by hua on 2018/7/22.

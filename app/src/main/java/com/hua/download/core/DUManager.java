@@ -1,4 +1,4 @@
-package com.hua.downupload.core;
+package com.hua.download.core;
 
 /**
  * 下载 / 上传管理器

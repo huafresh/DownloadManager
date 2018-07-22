@@ -1,4 +1,4 @@
-package com.hua.downupload;
+package com.hua.download;
 
 import android.os.Environment;
 import android.support.v7.app.AppCompatActivity;
